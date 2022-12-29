@@ -1,2 +1,2 @@
 # Area-Calculator
-Area calculator for different shapes(2D, 3D, 4D)
+Area/Volume calculator for different shapes(2D, 3D)
