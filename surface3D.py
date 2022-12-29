@@ -8,4 +8,5 @@ def cuboid(length, breadth, height):
 	area = 2 * (length * breadth + breadth * height + length * height)
 
 def cone(radius, height):
-	area = 3.14 * radius(radius + 0.5**((height * height) + (radius * radius))
+	area = 3.14 * radius(radius + math.sqrt((height * height) + (radius * radius))
+
